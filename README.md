@@ -9,3 +9,6 @@ This readme file contains project information.
 
 ## copyright
 this project is property of Ankur. Can only be used for educational purposes.
+
+## thanks
+thanking all my student for purchasing this course.
