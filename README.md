@@ -1,11 +1,11 @@
 # Collab-Project
-Collab project for learning git commands.
+Collab project for learning best git commands.
 
 ## tech stack
-Java, Spring, REST API
+java, spring, REST API
 
 ### description
 This readme file contains special information.
 
 ## copyright
-this project is property of Ankur. Can only be used for educational purposes
+this project is property of Ankur. Can only be used for educational purposes.
